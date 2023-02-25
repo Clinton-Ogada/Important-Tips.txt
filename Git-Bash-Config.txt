@@ -1,0 +1,7 @@
+git config --global user.name "Clinton-Ogada"
+git init
+git add .
+git status
+git commit -m "my first commit"
+git remote add origin https://github.com/Clinton-Ogada/Introduction-to-Android.git
+git push -u origin master
